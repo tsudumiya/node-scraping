@@ -1,6 +1,5 @@
 node_modules/
 .next/
-.next
 .env
 google_secrets.json
 .DS_Store
